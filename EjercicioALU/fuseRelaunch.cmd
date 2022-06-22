@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "secureip" -o "C:/Users/CEAS/Documents/Proyecto/EjercicioALU/Asignar_isim_beh.exe" -prj "C:/Users/CEAS/Documents/Proyecto/EjercicioALU/Asignar_beh.prj" "work.Asignar" 
